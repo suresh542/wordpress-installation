@@ -1,0 +1,28 @@
+first installed linux or ubuntu server os 
+
+and get ip address
+
+put ip address in putty ssh
+
+login the username and password
+
+install update
+
+install php depanded application
+
+install apache 2 or apache
+ 
+check ipaddress https://10.10.7.76    if open means go next step
+
+install mysql 
+
+create database in mysql
+
+create user name and password
+
+in vi wp-config.php  edit username and password
+
+and open 
+
+https://10.10.7.76/wp-admin
+
